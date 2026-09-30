@@ -110,3 +110,44 @@ Inserted 5 student records and practiced SQL queries.
 Today I started learning SQL and practiced basic
 database operations using SQLite. I learned how to
 retrieve, filter, sort and analyze data using SQL queries.
+
+
+# Day 16 — SQL Filtering & Conditions
+
+## Topics Covered
+
+- WHERE
+- AND
+- OR
+- NOT
+- BETWEEN
+- IN
+- LIKE
+- Combined conditions
+
+## Practice
+
+- Filtered students using WHERE
+- Used AND conditions
+- Used OR conditions
+- Excluded values using NOT
+- Filtered ranges using BETWEEN
+- Filtered multiple values using IN
+- Used LIKE for pattern matching
+- Combined multiple SQL conditions
+
+## Key Learnings
+
+- WHERE → Filters rows
+- AND → Both conditions must be true
+- OR → At least one condition must be true
+- NOT → Excludes a condition
+- BETWEEN → Filters a range
+- IN → Matches multiple values
+- LIKE → Pattern matching
+
+## Day 16 Summary
+
+Today I learned SQL filtering and practiced
+different conditions using WHERE, AND, OR, NOT,
+BETWEEN, IN and LIKE.
